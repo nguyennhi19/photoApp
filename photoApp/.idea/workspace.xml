@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Gradle : com.codegym.flicker : FlickerApp-1.0-SNAPSHOT.war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed2342c9-b0da-48b8-833b-3b3aca0c5739" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/image/sai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/images/hinh-nen-dep-may-tinh-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/images/meologin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/images/vang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/userManager/thieusot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/31942759_2036342433062126_5835725257968713728_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/3meoxx.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/61aa099140d0a98ef0c1-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/anhnhi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/download.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/girl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/gold.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/image_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/memo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/meomeo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/my.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/ny.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/red.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/FlickerApp_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/FlickerApp_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/codegym/flicker/ApplicationConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/flicker/ApplicationConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/codegym/flicker/controller/AlbumController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/flicker/controller/AlbumController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/codegym/flicker/controller/ImageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/flicker/controller/ImageController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/codegym/flicker/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/flicker/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/codegym/flicker/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/flicker/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/codegym/flicker/repository/IAlbumRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/flicker/repository/IAlbumRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/codegym/flicker/repository/IImageRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/flicker/repository/IImageRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/codegym/flicker/service/impl/AlbumServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/flicker/service/impl/AlbumServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/codegym/flicker/service/impl/ImageServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/flicker/service/impl/ImageServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/FlickerApp-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/FlickerApp-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/ApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/ApplicationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/ApplicationInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/ApplicationInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/controller/AlbumController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/controller/AlbumController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/controller/ImageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/controller/ImageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/formatter/AlbumFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/formatter/AlbumFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/formatter/CategoryFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/formatter/CategoryFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/model/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/model/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/model/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/model/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/model/Image.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/model/hash/Hashing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/model/hash/Hashing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/model/upload/AlbumAvatarUpload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/model/upload/AlbumAvatarUpload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/model/upload/UploadImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/model/upload/UploadImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/model/upload/UserImageUpload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/model/upload/UserImageUpload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/repository/IAlbumRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/repository/IAlbumRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/repository/ICategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/repository/ICategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/repository/IImageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/repository/IImageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/repository/IUserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/repository/IUserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/service/IAlbumService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/service/IAlbumService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/service/ICategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/service/ICategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/service/IImageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/service/IImageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/service/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/service/IUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/service/impl/AlbumServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/service/impl/AlbumServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/service/impl/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/service/impl/CategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/service/impl/ImageServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/service/impl/ImageServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/flicker/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home/albumList.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home/albumList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home/imageList.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home/imageList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/userManager/albumList.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/userManager/albumList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/userManager/createAlbum.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/userManager/createAlbum.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/userManager/editAlb.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/userManager/editAlb.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/userManager/editImg.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/userManager/editImg.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1vi4eFIkPhEDhhlLyFlAdoMueJR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581735618824" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Flicker\src\main\webapp\WEB-INF\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.46" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.46" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : com.codegym.flicker : FlickerApp-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="87a80f88-b4cf-4f7d-8082-1dd90ee39848" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61956" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.codegym.flicker : FlickerApp-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed2342c9-b0da-48b8-833b-3b3aca0c5739" name="Default Changelist" comment="" />
+      <created>1580816326697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580816326697</updated>
+      <workItem from="1580816330332" duration="1160000" />
+      <workItem from="1581081912361" duration="780000" />
+      <workItem from="1581237097120" duration="41000" />
+      <workItem from="1581240350728" duration="1145000" />
+      <workItem from="1581731013218" duration="2556000" />
+      <workItem from="1581733667408" duration="609000" />
+      <workItem from="1581734617882" duration="1030000" />
+      <workItem from="1627031681908" duration="1980000" />
+      <workItem from="1628155885413" duration="438000" />
+      <workItem from="1628213529836" duration="58000" />
+      <workItem from="1629771789005" duration="2066000" />
+      <workItem from="1630404529580" duration="783000" />
+      <workItem from="1634803411355" duration="2613000" />
+      <workItem from="1634808560753" duration="236000" />
+      <workItem from="1634808840955" duration="1177000" />
+      <workItem from="1635217032586" duration="9087000" />
+      <workItem from="1635306889300" duration="1496000" />
+      <workItem from="1635501470401" duration="416000" />
+      <workItem from="1635817488606" duration="1783000" />
+      <workItem from="1636335412220" duration="18207000" />
+      <workItem from="1636396715465" duration="1891000" />
+      <workItem from="1636520259983" duration="648000" />
+      <workItem from="1637898503376" duration="1272000" />
+      <workItem from="1638516501408" duration="1407000" />
+      <workItem from="1638536687440" duration="340000" />
+      <workItem from="1640073001019" duration="645000" />
+      <workItem from="1640165771060" duration="2814000" />
+      <workItem from="1640309663152" duration="305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="439" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1636340612791">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="439" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1636340612791" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1636360652309">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1636360652309" />
+    <state width="866" height="202" key="GridCell.Tab.0.bottom" timestamp="1636357465597">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="866" height="202" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1636357465597" />
+    <state width="1178" height="32" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1636354215194" />
+    <state width="866" height="202" key="GridCell.Tab.0.center" timestamp="1636357465597">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="866" height="202" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1636357465597" />
+    <state width="1178" height="32" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1636354215194" />
+    <state width="866" height="202" key="GridCell.Tab.0.left" timestamp="1636357465597">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="866" height="202" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1636357465597" />
+    <state width="1178" height="32" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1636354215194" />
+    <state width="866" height="202" key="GridCell.Tab.0.right" timestamp="1636357465597">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="866" height="202" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1636357465597" />
+    <state width="1178" height="32" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1636354215194" />
+    <state width="866" height="202" key="GridCell.Tab.1.bottom" timestamp="1636357465597">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="866" height="202" key="GridCell.Tab.1.bottom/0.0.1024.728@0.0.1024.728" timestamp="1636357465597" />
+    <state width="1178" height="32" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1636354215194" />
+    <state width="866" height="202" key="GridCell.Tab.1.center" timestamp="1636357465597">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="866" height="202" key="GridCell.Tab.1.center/0.0.1024.728@0.0.1024.728" timestamp="1636357465597" />
+    <state width="1178" height="32" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1636354215194" />
+    <state width="866" height="202" key="GridCell.Tab.1.left" timestamp="1636357465597">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="866" height="202" key="GridCell.Tab.1.left/0.0.1024.728@0.0.1024.728" timestamp="1636357465597" />
+    <state width="1178" height="32" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1636354215194" />
+    <state width="866" height="202" key="GridCell.Tab.1.right" timestamp="1636357465597">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="866" height="202" key="GridCell.Tab.1.right/0.0.1024.728@0.0.1024.728" timestamp="1636357465597" />
+    <state width="1178" height="32" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1636354215194" />
+    <state width="866" height="202" key="GridCell.Tab.2.bottom" timestamp="1636357465597">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="866" height="202" key="GridCell.Tab.2.bottom/0.0.1024.728@0.0.1024.728" timestamp="1636357465597" />
+    <state width="1178" height="32" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1636354214819" />
+    <state width="866" height="202" key="GridCell.Tab.2.center" timestamp="1636357465597">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="866" height="202" key="GridCell.Tab.2.center/0.0.1024.728@0.0.1024.728" timestamp="1636357465597" />
+    <state width="1178" height="32" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1636354214819" />
+    <state width="866" height="202" key="GridCell.Tab.2.left" timestamp="1636357465597">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="866" height="202" key="GridCell.Tab.2.left/0.0.1024.728@0.0.1024.728" timestamp="1636357465597" />
+    <state width="1178" height="32" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1636354214819" />
+    <state width="866" height="202" key="GridCell.Tab.2.right" timestamp="1636357465597">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="866" height="202" key="GridCell.Tab.2.right/0.0.1024.728@0.0.1024.728" timestamp="1636357465597" />
+    <state width="1178" height="32" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1636354214819" />
+    <state width="866" height="202" key="GridCell.Tab.3.bottom" timestamp="1636357465597">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="866" height="202" key="GridCell.Tab.3.bottom/0.0.1024.728@0.0.1024.728" timestamp="1636357465597" />
+    <state width="1178" height="32" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1636354214819" />
+    <state width="866" height="202" key="GridCell.Tab.3.center" timestamp="1636357465597">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="866" height="202" key="GridCell.Tab.3.center/0.0.1024.728@0.0.1024.728" timestamp="1636357465597" />
+    <state width="1178" height="32" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1636354214819" />
+    <state width="866" height="202" key="GridCell.Tab.3.left" timestamp="1636357465597">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="866" height="202" key="GridCell.Tab.3.left/0.0.1024.728@0.0.1024.728" timestamp="1636357465597" />
+    <state width="1178" height="32" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1636354214819" />
+    <state width="866" height="202" key="GridCell.Tab.3.right" timestamp="1636357465597">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="866" height="202" key="GridCell.Tab.3.right/0.0.1024.728@0.0.1024.728" timestamp="1636357465597" />
+    <state width="1178" height="32" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1636354214819" />
+    <state x="0" y="0" width="1017" height="662" key="dock-window-1" timestamp="1635232940615">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="1017" height="662" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1635232940615" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
